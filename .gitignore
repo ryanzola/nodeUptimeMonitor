@@ -62,6 +62,4 @@ typings/
 config.js
 
 # Contents of data files
-.data/checks/*.json
-.data/tokens/*.json
-.data/users/*.json
+.data
